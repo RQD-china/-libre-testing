@@ -1,6 +1,6 @@
 # Libre Testing
 
-本 repo 是项目结束后的个人备份版本，开发过程使用的 repo 是 [libre-testing](https://github.com/3fuyang/libre-testingZ)。
+本 repo 是项目结束后的个人备份版本，开发过程使用的 repo 是 [libre-testing](https://github.com/3fuyang/libre-testing)。
 
 ## 简介
 
